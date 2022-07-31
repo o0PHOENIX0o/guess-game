@@ -1,7 +1,6 @@
 import random as rand
 
 def game():
-    print(num)
     guess=None
     attempts = 0
     while(guess!=num):
